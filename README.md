@@ -1,10 +1,11 @@
 # Ex.No: 6               HOLT WINTERS METHOD
+### AIM:To implement the Holt Winters Method Model using Python.
+
 ### Date: 
 ### Developed by: ANUSHARON.S
 ### Register no.: 212222240010
 
 
-### AIM:
 
 ### ALGORITHM:
 1. You import the necessary libraries
